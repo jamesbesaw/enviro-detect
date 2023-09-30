@@ -1,0 +1,10 @@
+Model	Target Gas
+MQ2	General combustible gas
+MQ3	Alcohol
+MQ4	Natural gas, Methane
+MQ5	LPG, Natural gas, Coal gas
+MQ6	LPG, Propane
+MQ7	Carbon Monoxide
+MQ8	Hydrogen
+MQ9	CO and Combustible gas
+MQ135	Air Quality Control
